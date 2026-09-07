@@ -1,0 +1,404 @@
+{
+  "plugins/tools/ambulk.js": [
+    "https://api.nexadev.my.id/am/bulk/",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/amsend.js": [
+    "https://api.nexadev.my.id/am/send/",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/amverif.js": [
+    "https://...\\",
+    "https://alight-creative.firebaseapp.com/...",
+    "https://alight-creative.firebaseapp.com/...\\",
+    "https://api.nexadev.my.id/am/verif/",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/anticolong.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://whatsapp.com",
+    "https://whatsapp.com/ios"
+  ],
+  "plugins/tools/ascii.js": [
+    "https://codeshare.cloudku.click/view/f2db48ac",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://www.text-image.com"
+  ],
+  "plugins/tools/binary.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/bitly.js": [
+    "https://api.nekolabs.web.id/tools/shortlink/bitly?url=${encodeURIComponent(url",
+    "https://google.com",
+    "https://google.com\\",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/breach.js": [
+    "https://periksadata.com/",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/bypass.js": [
+    "https://bypassunlock.com",
+    "https://bypassunlock.com/",
+    "https://linkvertise.com/...",
+    "https://linkvertise.com/519136/resource-pack-hd",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://trw.lat/api/bypass"
+  ],
+  "plugins/tools/calc.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/ccgen.js": [
+    "https://backend.lambdatest.com/api/dev-tools/credit-card-generator?type=${encodedType}&no-of-cards=${jumlahNum}",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/ceknamadana.js": [
+    "https://api.pitucode.com/cek-name-e-wallet-id-v2?bank=DANA&accountNumber=",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/cekrek.js": [
+    "https://api.nexray.eu.cc/information/check-rekening",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/cekresi.js": [
+    "https://apa2.cekresi.com/cekresi/resi/initialize.php?ui=e0ad7e971ce77822056ba7a155f85c11&p=1&w=${Math.random(",
+    "https://cekresi.com",
+    "https://cekresi.com/",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/cekweb.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://whoisjson.com/api/v1/whois?domain=${query}"
+  ],
+  "plugins/tools/colongsw.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/daftartt.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/debiner.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/ekspedisilist.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/encode.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://www.base64decode.org/",
+    "https://www.base64encode.org/"
+  ],
+  "plugins/tools/extra-tools.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/facedetector.js": [
+    "https://api.lolhuman.xyz/api/facedetect?apikey=${apiKey}&img=${encodeURIComponent(imageUrl",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://tmpfiles.org/api/v1/upload"
+  ],
+  "plugins/tools/fagsocial.js": [
+    "http://www.w3.org/2000/svg",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/fakecam.js": [
+    "http://www.w3.org/2000/svg",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/fakesw.js": [
+    "https://catbox.moe/user/api.php",
+    "https://kyzznekoo.zone.id/api/canvas/fakesw?sw=${encodeURIComponent(sw",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://tmpfiles.org/api/v1/upload"
+  ],
+  "plugins/tools/faketag.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/fakevhs.js": [
+    "http://www.w3.org/2000/svg",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/gh.js": [
+    "https://api.github.com/gists/${id}",
+    "https://api.github.com/search/repositories?q=${encodeURIComponent(text",
+    "https://api.github.com/users/${text}",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/gmaps.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://www.google.com/maps/dir/${encodeURIComponent(dari",
+    "https://www.google.com/search?q=${encodeURIComponent("
+  ],
+  "plugins/tools/grammary.js": [
+    "https://capi.grammarly.com/api/check/aidetector",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://www.grammarly.com",
+    "https://www.grammarly.com/ai-detector"
+  ],
+  "plugins/tools/hapuswm.js": [
+    "https://api.snowping.my.id/api/tools/removewm?url=${encodeURIComponent(srcUrl",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/hd5.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/hd8.js": [
+    "https://api.nexadev.my.id/api/upscale1?url=${encodeURIComponent(imageUrl",
+    "https://catbox.moe/user/api.php",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/hostmedia.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/image.js": [
+    "https://imagetools.rapikzyeah.biz.id/upload",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/jam.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://time.is/id/Jakarta"
+  ],
+  "plugins/tools/kirimpesangc.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/mcstalk.js": [
+    "https://api.dashx.dpdns.org/api/stalk/minecraft",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/tools/mikutalk.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://www.sankavolereii.my.id/anime/ttsmiku?apikey=${apikey}&text=${encodeURIComponent(text"
+  ],
+  "plugins/tools/morse.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/bratspongebob.js": [
+    "https://img1.pixhost.to/images/11791/687260942_vynaa-valerie.jpg",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/cewekbrat.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/cinematic.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/codesnap.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/fakebca.js": [
+    "https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiJ-Ek-_EeA.woff2",
+    "https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hiJ-Ek-_EeA.woff2",
+    "https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+    "https://raw.githubusercontent.com/ryyntwx/allimagerin/refs/heads/main/F1.png",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/fakech.js": [
+    "https://api.zenzxz.my.id/maker/fakechannel?url=${encodeURIComponent(url",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://uguu.se/upload"
+  ],
+  "plugins/maker/fakediscoard.js": [
+    "https://files.catbox.moe/ifx2y7.png",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/fakeff.js": [
+    "https://api.nexray.web.id/maker/fakelobyff?nickname=${encodeURIComponent(text",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/fakegroup.js": [
+    "https://api.zenzxz.my.id",
+    "https://api.zenzxz.my.id/maker/fakegroup?",
+    "https://img.jpg|Zero",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://uguu.se/upload"
+  ],
+  "plugins/maker/fakegroupv2.js": [
+    "https://api.zenzxz.my.id/maker/fakegroupv2?url=${encodeURIComponent(url",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://uguu.se/upload"
+  ],
+  "plugins/maker/fakeigstory.js": [
+    "https://api.zenzxz.my.id",
+    "https://api.zenzxz.my.id/maker/fakeigstory?",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://uguu.se/upload"
+  ],
+  "plugins/maker/faketele.js": [
+    "https://api.theresav.biz.id/canvas/telegram",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/faketiktok.js": [
+    "https://api.zenzxz.my.id",
+    "https://api.zenzxz.my.id/maker/faketiktok?name=${encodeURIComponent(name",
+    "https://example.com/image.jpg",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://uguu.se/upload.php"
+  ],
+  "plugins/maker/fakett.js": [
+    "https://api.theresav.biz.id/canvas/faketiktok",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/faketweet.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/hangingpolaroid.js": [
+    "http://www.w3.org/2000/svg",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/hitamkan.js": [
+    "https://api.termai.cc",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/hotline.js": [
+    "https://api.cuki.biz.id/api/canvas/meme/hotline",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/iqc3.js": [
+    "https://api.theresav.biz.id/canvas/iqc?teks=${encodeURIComponent(queryText",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/maker/iqc4.js": [
+    "https://api.theresav.biz.id/canvas/iqc/v2?text=${encodeURIComponent(queryText",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/canvas/fakeatm.js": [
+    "https://i.imgur.com/atm-template.png"
+  ],
+  "plugins/canvas/fakeff2.js": [
+    "https://api.nexray.web.id/maker/fakelobyff"
+  ],
+  "plugins/canvas/fakeffduo.js": [
+    "https://raw.githubusercontent.com/Raavfy-24/Maker/refs/heads/main",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/canvas/fakeidcard.js": [
+    "https://i.imgur.com/idcard-template.png"
+  ],
+  "plugins/canvas/fakeijin.js": [],
+  "plugins/canvas/fakekarcis.js": [
+    "https://i.imgur.com/karcis-template.png"
+  ],
+  "plugins/canvas/fakekatubelajat.js": [
+    "https://i.imgur.com/kartupelajar-template.png"
+  ],
+  "plugins/canvas/fakesertifikat.js": [
+    "https://i.imgur.com/sertifikat-template.png"
+  ],
+  "plugins/canvas/fakesp.js": [
+    "https://i.imgur.com/sp-template.png"
+  ],
+  "plugins/canvas/faketiket.js": [
+    "https://i.imgur.com/tiket-template.png"
+  ],
+  "plugins/canvas/ustadz.js": [
+    "https://api.cuki.biz.id/api/canvas/ustadz"
+  ],
+  "plugins/canvas/drakememe.js": [
+    "https://cdn.jsdelivr.net/gh/wolfsonliu/web_typography/fonts/arial.ttf",
+    "https://imgflip.com/s/meme/Drake-Hotline-Bling.jpg",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/canvas/fakeijazah.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/canvas/jail.js": [
+    "https://api.popcat.xyz/jail?image=${encodeURIComponent(uploaded",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran",
+    "https://tmpfiles.org/api/v1/upload"
+  ],
+  "plugins/canvas/patrickmeme.js": [
+    "https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiJ-Ek-_EeA.woff2",
+    "https://raw.githubusercontent.com/ryyntwx/allimagerin/refs/heads/main/IMG-20260710-WA1772.jpg",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/canvas/quoteswindows.js": [
+    "https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hiJ-Ek-_EeA.woff2",
+    "https://raw.githubusercontent.com/ryyntwx/allimagerin/refs/heads/main/wdws.png",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/canvas/fakepaspor.js": [
+    "https://i.imgur.com/JZqRkYp.png"
+  ],
+  "plugins/owner/addlimit.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/banchat2.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/banuser.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/broadcast.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/broadcastgc.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/cheat.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/clearsession.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/deluser.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/leavegc.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/listbanchat.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/listgc.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/listown.js": [
+    "https://github.com/sadxzyq",
+    "https://instagram.com/tulisan.ku.id",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/listpc.js": [
+    "https://github.com/sadxzyq",
+    "https://instagram.com/tulisan.ku.id",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/listprem.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/owner/listsw.js": [
+    "https://github.com/sadxzyq",
+    "https://instagram.com/tulisan.ku.id",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/group/antihidetag.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/group/extra-admin.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/group/groupstats.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/media/audio-effect.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/ai/age-detection.js": [
+    "https://aliceecdn.vercel.app/upload",
+    "https://free-restapi.biz.id/api/age-detection",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/download/capcut.js": [
+    "https://capdownloader.com",
+    "https://capdownloader.com/",
+    "https://capdownloader.com/wp-json/aio-dl/video-data/",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/download/gdrive.js": [
+    "https://drive.google.com",
+    "https://drive.google.com/file/d/xxx/view",
+    "https://drive.google.com/file/d/xxx/view\\n",
+    "https://drive.google.com/uc?id=${id}&authuser=0&export=download",
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ],
+  "plugins/game/blackjack.js": [
+    "https://tiktok.com/@anita.putri.azzah1\\nSaluran"
+  ]
+}
